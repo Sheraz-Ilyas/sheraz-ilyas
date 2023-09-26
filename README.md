@@ -8,5 +8,5 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
- </br><img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sheraz-Ilyas&theme=calm&hide_border=true"/>
+ <img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sheraz-Ilyas&theme=calm&hide_border=true"/>
 </div>
